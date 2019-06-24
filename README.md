@@ -10,4 +10,4 @@ Szczegółowy opis problemu znajduje w pliku [Opis.docx](Opis.docx).
 --------------------
 **Autorzy:**  
 Krzysztof Dąbrowski  
-Krzysztof Mozdzynski
+Krzysztof Móżdżyński
